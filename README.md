@@ -1,1 +1,0 @@
-this is full stack white board website
